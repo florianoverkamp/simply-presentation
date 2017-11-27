@@ -166,6 +166,7 @@
 						"description" : "Background filter",
 						"selector" : "section",
 						"styles" : [
+							{attribute : {'data-state' : 'simply-filter simply-white'}, name : "None", icon : 'fa-paint-brush'},
 							{attribute : {'data-state' : 'simply-filter simply-orange'}, name : "Orange", icon : 'fa-paint-brush'},
 							{attribute : {'data-state' : 'simply-filter simply-purple'}, name : "Purple", icon : 'fa-paint-brush'},
 							{attribute : {'data-state' : 'simply-filter simply-aqua'}, name : "Aqua", icon : 'fa-paint-brush'},
@@ -379,6 +380,8 @@
 				left: 0px;
 				right: 0px;
 				bottom: 0px;
+			}
+			html.simply-white .backgrounds .slide-background:before {
 			}
 			html.simply-orange .backgrounds .slide-background:before {
 				background: linear-gradient(to bottom, rgba(255, 128, 3, 0.82) 0%, rgba(241, 102, 35, 0.82) 100%);
