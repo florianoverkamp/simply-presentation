@@ -7,7 +7,7 @@
 					"data-state": "simply-filter simply-orange",
 					"data-background-image": "img/H_01.jpg"
 				},
-				"section": "<p>Welcome<br></p><p>Blurp</p>"
+				"section": "<p>Welcome</p><p>Blurp</p>"
 			},
 			{
 				"data-simply-template": "Simple",
