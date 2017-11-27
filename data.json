@@ -4,8 +4,7 @@
 			{
 				"data-simply-template": "Simple",
 				"sectionWrapper": {
-					"data-state": "simply-filter simply-orange",
-					"data-background-image": "img/H_01.jpg"
+					"data-background-image": "img/su-classroom.jpg"
 				},
 				"section": "<p>Welcome</p><p>Blurp</p>"
 			},
