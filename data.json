@@ -6,7 +6,7 @@
 				"sectionWrapper": {
 					"data-background-image": "img/su-classroom.jpg"
 				},
-				"section": "<p>Welcome</p><p>Blurp</p>"
+				"section": "<em><q><code></code></q></em><blockquote>Welcome<em></em><code><q></q></code></blockquote><blockquote><code>Blu</code><em><code></code></em><code>r<q></q></code><em><code><code><code><em></em></code></code></code><q><code>p</code></q></em></blockquote><h1><em><q><code><em></em></code></q></em></h1>"
 			},
 			{
 				"data-simply-template": "Simple",
