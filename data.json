@@ -2,36 +2,46 @@
 	"/": {
 		"slides": [
 			{
-				"data-simply-template": "Simple",
+				"section": "<h1>Workshop #nuevenniet</h1>",
+				"sectionWrapper": {
+					"data-background-image": "img/su-classroom.jpg"
+				},
+				"data-simply-template": "Simple"
+			},
+			{
+				"section": "<h1>Over Speakup&nbsp;</h1><p>(obligatory spammy intro - sorry)</p>",
 				"sectionWrapper": {
 					"data-state": "simply-filter simply-grey",
 					"data-background-image": "img/su-classroom.jpg"
 				},
-				"section": "<h1>Workshop #nuevenniet</h1>"
+				"data-simply-template": "Simple"
 			},
 			{
-				"data-simply-template": "Simple",
+				"section": "<h1>Information overload!</h1>",
 				"sectionWrapper": {
-					"data-state": "simply-filter simply-grey",
-					"data-background-image": "img/su-classroom.jpg"
-				},
-				"section": "<h1>Over Speakup&nbsp;</h1><p>(obligatory spammy intro - sorry)</p>"
-			},
-			{
-				"data-simply-template": "Simple",
-				"sectionWrapper": {
-					"data-state": "simply-filter simply-orange",
 					"data-background-image": "img/su-frustration.jpg"
 				},
-				"section": "<h1>Information overload!</h1>"
+				"data-simply-template": "Simple"
 			},
 			{
-				"data-simply-template": "Simple",
+				"section": "<p></p><p></p><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/tf9ZhU7zF8s?enablejsapi=1\" frameborder=\"0\" allowfullscreen=\"\"></iframe>",
 				"sectionWrapper": {
 					"data-state": "simply-filter simply-grey",
 					"data-background-image": "img/su-frustration.jpg"
 				},
-				"section": "<p></p><p></p><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/tf9ZhU7zF8s?enablejsapi=1\" frameborder=\"0\" allowfullscreen=\"\"></iframe>"
+				"data-simply-template": "Simple"
+			},
+			{
+				"section": "<h2>How to solve it?</h2>",
+				"sectionWrapper": {
+					"data-background-image": "img/su-hacker.jpg"
+				},
+				"data-simply-template": "Simple"
+			},
+			{
+				"section": "Slide 1",
+				"sectionWrapper": {},
+				"data-simply-template": "Simple"
 			}
 		]
 	}
