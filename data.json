@@ -74,7 +74,7 @@
 				"data-simply-template": "Simple"
 			},
 			{
-				"section": "Slide 1",
+				"section": "<p>Check vooral ook <a href=\"http://www.timewellspent.io/\" target=\"_blank\">www.timewellspent.io</a></p><h1 class=\"highlight\">Thanks!</h1>",
 				"sectionWrapper": {},
 				"data-simply-template": "Simple"
 			}
