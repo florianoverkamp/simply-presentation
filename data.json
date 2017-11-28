@@ -9,7 +9,7 @@
 				"data-simply-template": "Simple"
 			},
 			{
-				"section": "<h1>Over Speakup&nbsp;</h1><p>(obligatory spammy intro - sorry)</p>",
+				"section": "<h1>Over Speakup&nbsp;</h1><p>(obligatory intro - sorry)</p>",
 				"sectionWrapper": {
 					"data-state": "simply-filter simply-grey",
 					"data-background-image": "img/su-classroom.jpg"
