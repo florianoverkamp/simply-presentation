@@ -54,10 +54,15 @@
 				"data-simply-template": "Simple"
 			},
 			{
-				"section": "Slide 1",
+				"section": "<p>Example</p><p><img data-simply-src=\"https://florianoverkamp.github.io/simply-presentation/img/timewellspent-app2.png\" alt=\"\" class=\"large\"><br></p>",
 				"sectionWrapper": {
 					"data-background-image": "img/su-hacker.jpg"
 				},
+				"data-simply-template": "Simple"
+			},
+			{
+				"section": "Slide 1",
+				"sectionWrapper": {},
 				"data-simply-template": "Simple"
 			}
 		]
