@@ -28,10 +28,10 @@
 			{
 				"data-simply-template": "Simple",
 				"sectionWrapper": {
-					"data-state": "simply-filter simply-orange",
-					"data-background-image": "img/H_05.jpg"
+					"data-state": "simply-filter simply-grey",
+					"data-background-image": "img/su-frustration.jpg"
 				},
-				"section": "<p>That is all for now, thanks for watching!</p><p><a href=\"https://simplyedit.io\">simplyedit.io</a></p>"
+				"section": "<p></p><p></p><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/tf9ZhU7zF8s?enablejsapi=1\" frameborder=\"0\" allowfullscreen=\"\"></iframe>"
 			}
 		]
 	}
