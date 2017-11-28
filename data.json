@@ -62,7 +62,16 @@
 			},
 			{
 				"section": "Slide 1",
-				"sectionWrapper": {},
+				"sectionWrapper": {
+					"data-background-image": "img/su-hacker.jpg"
+				},
+				"data-simply-template": "Simple"
+			},
+			{
+				"section": "<h1 class=\"highlight\">Resultaten</h1>",
+				"sectionWrapper": {
+					"data-background-image": "img/su-teaching.jpg"
+				},
 				"data-simply-template": "Simple"
 			}
 		]
