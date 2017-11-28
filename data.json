@@ -39,7 +39,7 @@
 				"data-simply-template": "Simple"
 			},
 			{
-				"section": "<p>Design Ethics: Don't do that, then!</p><p>- Your own apps (prevention)</p><p>- Other peoples apps (repression)</p>",
+				"section": "<p>Design Ethics: Don't do that, then!</p><blockquote>- Your own apps (prevention)</blockquote><blockquote>- Other peoples apps (repression)</blockquote>",
 				"sectionWrapper": {
 					"data-background-image": "img/su-hacker.jpg"
 				},
