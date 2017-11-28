@@ -33,14 +33,14 @@
 				"data-simply-template": "Simple"
 			},
 			{
-				"section": "<h2>How to solve it?</h2>",
+				"section": "<h1>How to solve it?</h1>",
 				"sectionWrapper": {
 					"data-background-image": "img/su-switchboard.jpg"
 				},
 				"data-simply-template": "Simple"
 			},
 			{
-				"section": "<p>Design Ethics: Don't do that, then!</p><blockquote>- Your own apps (prevention)</blockquote><blockquote>- Other peoples apps (repression)</blockquote>",
+				"section": "<h2 class=\"highlight\">Design Ethics: Don't do that, then!</h2><blockquote>- Your own apps (prevention)</blockquote><blockquote>- Other peoples apps (repression)</blockquote>",
 				"sectionWrapper": {
 					"data-background-image": "img/su-hacker.jpg"
 				},
@@ -55,7 +55,9 @@
 			},
 			{
 				"section": "Slide 1",
-				"sectionWrapper": {},
+				"sectionWrapper": {
+					"data-background-image": "img/su-hacker.jpg"
+				},
 				"data-simply-template": "Simple"
 			}
 		]
