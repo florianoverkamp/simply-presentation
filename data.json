@@ -24,7 +24,7 @@
 				"data-simply-template": "Simple"
 			},
 			{
-				"section": "<p></p><p></p><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/tf9ZhU7zF8s?autoplay=1&amp;enablejsapi=1\" frameborder=\"0\" allowfullscreen=\"\"></iframe>",
+				"section": "<p></p><p></p>&nbsp;<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/tf9ZhU7zF8s?enablejsapi=1\" frameborder=\"0\" allowfullscreen=\"\"></iframe>&nbsp;",
 				"sectionWrapper": {
 					"data-state": "simply-filter simply-grey",
 					"data-background-image": "img/su-frustration.jpg"
