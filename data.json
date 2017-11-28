@@ -39,8 +39,10 @@
 				"data-simply-template": "Simple"
 			},
 			{
-				"section": "Slide 1",
-				"sectionWrapper": {},
+				"section": "<p>Design Ethics: Don't do that, then!</p><p>- Your own apps (prevention)</p><p>- Other peoples apps (repression)</p>",
+				"sectionWrapper": {
+					"data-background-image": "img/su-hacker.jpg"
+				},
 				"data-simply-template": "Simple"
 			}
 		]
