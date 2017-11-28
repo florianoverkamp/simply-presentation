@@ -34,12 +34,19 @@
 			{
 				"section": "<h2>How to solve it?</h2>",
 				"sectionWrapper": {
-					"data-background-image": "img/su-hacker.jpg"
+					"data-background-image": "img/su-switchboard.jpg"
 				},
 				"data-simply-template": "Simple"
 			},
 			{
 				"section": "<p>Design Ethics: Don't do that, then!</p><blockquote>- Your own apps (prevention)</blockquote><blockquote>- Other peoples apps (repression)</blockquote>",
+				"sectionWrapper": {
+					"data-background-image": "img/su-hacker.jpg"
+				},
+				"data-simply-template": "Simple"
+			},
+			{
+				"section": "Slide 1",
 				"sectionWrapper": {
 					"data-background-image": "img/su-hacker.jpg"
 				},
