@@ -2,14 +2,14 @@
 	"/": {
 		"slides": [
 			{
-				"section": "<h1><img data-simply-src=\"https://florianoverkamp.github.io/simply-presentation/img/sulogo360px.png\" alt=\"\">&nbsp;workshop #nuevenniet</h1><h4>Design Ethics primer</h4>",
+				"section": "<h1>Workshop #nuevenniet</h1><h4>a Design Ethics primer</h4>",
 				"sectionWrapper": {
 					"data-background-image": "img/su-classroom.jpg"
 				},
 				"data-simply-template": "Simple"
 			},
 			{
-				"section": "<h1>Over Speakup&nbsp;</h1><p>(obligatory intro - sorry)</p>",
+				"section": "<h1>Over&nbsp;<img data-simply-src=\"https://florianoverkamp.github.io/simply-presentation/img/sulogo360px.png\" alt=\"\" class=\"medium\">&nbsp;</h1><p>(obligatory intro - sorry)</p>",
 				"sectionWrapper": {
 					"data-state": "simply-filter simply-grey",
 					"data-background-image": "img/su-classroom.jpg"
